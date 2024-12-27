@@ -14,6 +14,7 @@ Welcome to the Movie Recommender System! This project uses machine learning and 
 - [Dataset](#dataset)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ---
 
@@ -124,5 +125,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - Inspired by various movie recommendation systems.
 - Thanks to open-source libraries and datasets for making this project possible.
+
+---
+
+## Contact
+For any questions or feedback, please reach out to:
+
+Subham Kumar Gaurav: subhamgaurav2001@gmail.com  
+GitHub: [SubhamKumar-Gaurav](https://github.com/SubhamKumar-Gaurav)
 
 ---
