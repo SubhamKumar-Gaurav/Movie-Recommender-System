@@ -14,6 +14,7 @@ Welcome to the Movie Recommender System! This project uses machine learning and 
 - [Dataset](#dataset)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 ---
